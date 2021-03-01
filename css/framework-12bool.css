@@ -22,9 +22,10 @@
 /*COLUMNS*/
 [class*="col-"] {
     float: left;
-    /*Spazio interno*/
-    padding-left: 15px;
-    padding-right: 15px;
+    /*Spazio interno tra le colonne*/
+    /*commentato per il secondo es*/
+    /*padding-left: 15px;
+    padding-right: 15px;*/
 }
 [class*="col-"].padding-0 {
     padding-left: 0;
