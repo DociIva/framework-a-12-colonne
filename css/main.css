@@ -7,12 +7,14 @@ body {
 /*BOX PETROLIO*/
 .box { 
     height: 100px;
+    padding-top: 20px;
     border: 1px solid black;
     background: rgba( 0, 150, 136, 1);
 }
 /* BOX BIANCO*/
 .box-2 {
     height: 100px;
+    padding-top: 20px;
     text-align: center;
     border: 1px solid black;
     background: #fff;
@@ -20,6 +22,7 @@ body {
 /* BOX PETROLIO CHIARO*/
 .box-3 {
     height: 100px;
+    padding-top: 20px;
     text-align: center;
     border: 1px solid black;
     background: rgba( 150, 232, 232, 1);
