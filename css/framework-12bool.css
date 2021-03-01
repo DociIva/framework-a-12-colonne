@@ -26,6 +26,10 @@
     padding-left: 15px;
     padding-right: 15px;
 }
+[class*="col-"].padding-0 {
+    padding-left: 0;
+    padding-right: 0;
+}
 
 .col-12 {
     width: 100%;
