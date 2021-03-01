@@ -1,5 +1,14 @@
+/*******************
+ 12 BOOL FRAMEWORK
+ ******************/
+/*GENERAL*/
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
 }
