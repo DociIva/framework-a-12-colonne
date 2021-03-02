@@ -28,6 +28,19 @@ body {
     background: rgba( 150, 232, 232, 1);
 }
 /*ICONS*/
-i {
-    max-width: 200px;
+.icone {
+    font-size: 75px;
+    margin-left: 20px;
+}
+.icone-2 {
+    font-size: 75px;
+}
+.icone-b {
+    font-size: 75px;
+    color:white;
+}
+.icone-b-m {
+    font-size: 75px;
+    padding-left: 25px;
+    color:white;
 }
